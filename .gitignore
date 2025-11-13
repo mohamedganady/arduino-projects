@@ -1,0 +1,13 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Arduino temporary files
+*.tmp
+*.bak
+*.swp
+
+# Ignore Python virtual environment if you use Python
+venv/
+__pycache__/
+*.pyc
